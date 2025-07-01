@@ -88,8 +88,8 @@ local buttonsPagesData = {{
     {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
     {Text = "Aura", ScriptLink = "https://pastebin.com/raw/qZPVbxFc"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7"},
-    {Text = "Anti spy chat", ScriptLink = "https://pastebin.com/raw/u0eJBiH9"},
-    {Text = "Chat spy", ScriptLink = "https://pastebin.com/raw/ECZP85Ud"},
+    {Text = "coming soon", ScriptLink = ""},
+    {Text = "spin claws", ScriptLink = "https://pastebin.com/raw/fe8Ut9JQ"},
     {Text = "Anti lag", ScriptLink = "https://pastebin.com/raw/u5KgwBeD"},
     {Text = "Damage repel", ScriptLink = "https://pastebin.com/raw/9iJiCHHS"}, -- Added placeholder link
     {Text = "SPT auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
