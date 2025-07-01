@@ -91,7 +91,7 @@ local buttonsPagesData = {{
     {Text = "Anti spy chat", ScriptLink = "https://pastebin.com/raw/u0eJBiH9"},
     {Text = "Chat spy", ScriptLink = "https://pastebin.com/raw/ECZP85Ud"},
     {Text = "Anti lag", ScriptLink = "https://pastebin.com/raw/u5KgwBeD"},
-    {Text = "Damage kill", ScriptLink = "https://pastebin.com/raw/placeholder1"}, -- Added placeholder link
+    {Text = "Damage repel", ScriptLink = ""}, -- Added placeholder link
     {Text = "SPT auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = "Loopbring", ScriptLink = "https://pastebin.com/raw/wzMiStPG"},
     {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
