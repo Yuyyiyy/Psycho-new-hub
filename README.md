@@ -104,7 +104,7 @@ local buttonsPagesData = {{
     {Text = "No cooldown 50%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/b2fc36b1230d4bb9b06db2a419f50a8a/raw/e442c967add6123afd88d717b773361f7ad62af2"},
     {Text = "Auto base", ScriptLink = "https://pastefy.app/kS9BglBQ/raw"},
     {Text = "lag button", ScriptLink = "https://pastebin.com/raw/uxAGn259"},
-    {Text = "Script 22", ScriptLink = "https://pastebin.com/raw/placeholder2"}, -- Fixed syntax error and added placeholder
+    {Text = "THROW POWERS", ScriptLink = "https://pastebin.com/raw/uaHva1UX"}, -- Fixed syntax error and added placeholder
 }}
 
 -- Make buttons
